@@ -1,10 +1,56 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AndroidLayouts">
+    <shared>
+      <config />
+    </shared>
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f636c683-3140-40c7-83e5-5fef5a6afc11" name="Default Changelist" comment="" />
+    <list default="true" id="f636c683-3140-40c7-83e5-5fef5a6afc11" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/runConfigurations/Android.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/assets/image/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/lib/home.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/login_api/db_sample.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dev/login_api/user_login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/.flutter-plugins-dependencies" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/keys.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/localization.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/localizations/messages_all.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/localizations/messages_en.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/optional.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/routes.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/theme.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/src/uuid.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/lib/todos_app_core.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_app_core/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/lib/src/file_storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/lib/src/key_value_storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/lib/src/reactive_repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/lib/src/repository.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/lib/src/web_client.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/lib/todos_repository_local_storage.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/test/all_tests.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/test/file_storage_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/test/key_value_storage_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/test/reactive_repository_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/todos_repository_local_storage/test/repository_test.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/dev/android/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/dev/lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/macos/Flutter/GeneratedPluginRegistrant.swift" beforeDir="false" afterPath="$PROJECT_DIR$/dev/macos/Flutter/GeneratedPluginRegistrant.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/dev/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dev/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/dev/pubspec.yaml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,19 +60,33 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2Bmsdv4myZq7UWDBe5RmCjyep6K" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DEBUGGABLE_DEVICE" value="Pixel_2_API_30 [emulator-5554]" />
+    <property name="DEBUGGABLE_PROCESS" value="io.flutter.examples.platform_view" />
+    <property name="DEBUGGER_ID" value="Java" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="SHOW_ALL_PROCESSES" value="true" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="last_opened_file_path" value="D:/App/dev" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="dart.settings" />
     <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\SKYFALL\Documents\Developer\Fapp\dev\local_storage" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,5 +98,31 @@
       <updated>1657522686095</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="Dart">
+          <url>file://$PROJECT_DIR$/../flutter/packages/flutter/lib/src/widgets/framework.dart</url>
+          <line>557</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
